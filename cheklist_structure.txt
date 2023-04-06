@@ -1,0 +1,8 @@
+
+Name of the checklist (verifiable functionality)
+1. ID
+2. Title of check
+3. Steps of execution
+4. Expected result
+5. Check result
+6. Comments
