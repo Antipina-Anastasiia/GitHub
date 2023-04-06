@@ -5,7 +5,7 @@
 3. На против каждого действия - напишите команду в GitBash - Done
 `ДЛЯ РАБОТЫ С ГИТ сгенерировать SSH ключ`
  
-[JSON]()
+[JSON](https://github.com/Antipina-Anastasiia/JSON)
 
  1. Создать внешний репозиторий c названием JSON
  ```
@@ -86,7 +86,7 @@ Choose bug_report.json > [Edit this file]
  git pull
  ```
  
- [XML]()
+ [XML](https://github.com/Antipina-Anastasiia/XML)
 
  1.  Создать внешний репозиторий c названием XML 
  ```
@@ -175,7 +175,7 @@ git add . && git commit -m "add 2 file XML"
  ```
 
 
-[TXT]()
+[TXT](https://github.com/Antipina-Anastasiia/TXT)
 
  1. Создать внешний репозиторий c названием TXT 
  ```
