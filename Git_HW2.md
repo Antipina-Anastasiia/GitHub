@@ -16,7 +16,7 @@ git checkout -b <имя_ветки> - сразу создать перемест
 ```
 git push origin -u --all
 ```
-3. В ветке Bag Reports сделать текстовый документ со структурой баг репорта
+3. В ветке Bag Reports сделать текстовый документ со структурой [баг репорта](Bag1.txt)
 ```
 git checkout BagReports 
 cat > Bag1.txt 
@@ -36,7 +36,7 @@ git merge Bag Reports
 ```
 git push
 ```
-7. В ветке CheckLists набросать структуру чек листа
+7. В ветке CheckLists набросать структуру [чек листа](cheklist_structure.txt)
 ```
 cat > cheklist_structure.txt 
 tekst enter 
